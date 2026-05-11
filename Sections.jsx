@@ -148,24 +148,24 @@ function Works({ accentColor }) {
       </div>
       <div style={{ display: "grid", gridTemplateColumns: "repeat(2, 1fr)", gap: 32, rowGap: 80 }}>
         <WorkCard
-          tag="Skincare flagship" category="Brand · Commerce" year="2025"
-          title="MOON & GRAIN" kr="문앤그레인 — 글로벌 플래그십 리뉴얼"
-          image={(window.__resources && window.__resources.brandHero) || "assets/brand-hero.png"}
+          tag="Furniture brand" category="Brand · Commerce" year="2025"
+          title="GUIDISHO" kr="가이디쇼 — 가구 브랜드 사이트"
+          image="assets/work-guidisho.jpg"
         />
         <WorkCard
-          tag="Architectural studio" category="Brand · Editorial" year="2025"
-          title="HANSTONE FORM" kr="한스톤 폼 — 아카이브 사이트"
-          image={(window.__resources && window.__resources.brandStill) || "assets/brand-video-still.jpg"}
+          tag="Editorial feature" category="Retail Design" year="2024"
+          title="VOGUE × AESOP" kr="보그 이솝 — 리테일 디자인 편집"
+          image="assets/work-vogue.jpg"
         />
         <WorkCard
-          tag="Boutique hospitality" category="Brand · Booking" year="2024"
-          title="OTIUM HOUSE" kr="오티움 하우스 — 부티크 호텔 예약 플랫폼"
-          image={(window.__resources && window.__resources.brandStill) || "assets/brand-video-still.jpg"}
+          tag="Specialty coffee" category="Brand · Packaging" year="2024"
+          title="FRITZ" kr="프릳츠 — 브랜드 패키지 리뉴얼"
+          image="assets/work-fritz.jpg"
         />
         <WorkCard
-          tag="Independent perfumer" category="Commerce" year="2024"
-          title="MUK Atelier" kr="묵 아뜰리에 — 향수 D2C"
-          image={(window.__resources && window.__resources.brandHero) || "assets/brand-hero.png"}
+          tag="Global sportswear" category="Site Renewal" year="2025"
+          title="ADIDAS" kr="아디다스 — 사이트 리뉴얼"
+          image="assets/work-adidas.webp"
         />
       </div>
     </section>
